@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CoinCollector.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealGameSubmission\CoinCollector\Intermediate\Build\Win64\x64\CoinCollectorEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\UnrealGameSubmission\CoinCollector\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoinCollector\CoinCollector.cpp.obj"
+"C:\UnrealGameSubmission\CoinCollector\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoinCollector\PerModuleInline.gen.cpp.obj"
+"C:\UnrealGameSubmission\CoinCollector\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoinCollector\Default.rc2.res"
+/OUT:"C:\UnrealGameSubmission\CoinCollector\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoinCollector\UnrealEditor-CoinCollector.lib"

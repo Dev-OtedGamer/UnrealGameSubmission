@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealGameSubmission\\CoinCollector\\Source\\CoinCollector\\CoinCollector.Build.cs",
+		"C:\\UnrealGameSubmission\\CoinCollector\\Source\\CoinCollector.Target.cs",
+		"C:\\UnrealGameSubmission\\CoinCollector\\Source\\CoinCollectorEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

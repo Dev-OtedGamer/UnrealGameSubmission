@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CoinCollector",
+			"Path": "..\\Source\\CoinCollector.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CoinCollectorEditor",
+			"Path": "..\\Source\\CoinCollectorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

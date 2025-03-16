@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealgamesubmission\\coincollector\\source\\coincollector\\coincollector.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealgamesubmission\\coincollector\\intermediate\\build\\win64\\x64\\coincollectoreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealgamesubmission\\coincollector\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\coincollector\\definitions.coincollector.h",
+            "c:\\unrealgamesubmission\\coincollector\\source\\coincollector\\coincollector.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
